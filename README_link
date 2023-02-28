@@ -1,0 +1,8 @@
+https://www.newline.co/@kchan/embedding-figma-files-in-storybook--18498103
+
+Create .env in root directory with content
+STORYBOOK_FIGMA_ACCESS_TOKEN=$YOUR_TOKEN
+
+Execute docker-compose up
+
+
